@@ -1,0 +1,22 @@
+platformName
+Android
+platformVersion
+6.0
+deviceName
+OPPO A77
+udid
+5TJ7QCMVS4PJS48P
+automationName
+UiAutomator1
+appPackage
+tw.com.wgh3h
+appActivity
+tw.com.demo1.MyMainPage
+autoGrantPermissions
+true
+unicodeKeyboard
+true
+language
+en
+locale
+US

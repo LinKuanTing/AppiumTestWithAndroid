@@ -1,0 +1,10 @@
+###Top BMI (==)24
+24
+###Top BodyFat of Male for under (!=)30 years old
+20
+###Top BodyFat of Male for over (==)30 years old
+25
+###Top BodyFat of Female for under (!=)30 years old
+25
+###Top BodyFat of Female for over (==)30 years old
+30

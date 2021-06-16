@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/FnMailEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/ForgetPwd/TestCaseNormalForgetPwd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/ForgetPwd/WDFnL1ForgetPwd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Login/TestCaseFailLoginByWrongAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Login/TestCaseFailLoginByWrongPwd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Login/TestCaseNormalLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Login/WDFnL1Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByCharNickName.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByCharacterAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByChineseAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByExistAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByWrongMail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByWrongPwd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByWrongPwdCfm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseFailRegisterByWrongSN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/TestCaseNormalRegister.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level1/Register/WDFnL1Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level2/Personal/TestCaseHealthPlan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Advice/TestCaseAdvice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/BloodGlucose/TestCaseBloodGlucose.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/BloodPressure/TestCaseBloodPressure.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/BloodPressure/WDFnL3BloodPressure.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Diet/WDFnL3Diet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Diet/WDFnL3DietRecord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Ouendan/TestCaseOuendan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Ouendan/WDFnL3InOuendan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Shop/TestCaseShop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Shop/WDFnL3Shop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Sport/WDFnL3SportRecord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Thermometer/TestCaseThermometer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Thermometer/WDFnL3ThermometerRecord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Weight/TestCaseWeight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Weight/WDFnL3Weight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/Level3/Weight/WDFnL3WeightRecord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/WGHTestBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/WGHTestManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WGHTest/src/main/java/com/example/wghtest/other/FnFileEncrypt.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+
+    <property name="LOG_HOME" value="D:/TestData/TestLog"></property>
+
+    <!-- 設定ConsoleAppender-->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder  class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>%msg%n</pattern>
+        </encoder >
+    </appender>
+
+    <!--設定 FileAppender-->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <File>D:/TestData/TestLog/Log.log</File>
+        <encoder>
+            <pattern>%level%n%date%n%F%M%n%msg%n</pattern>
+        </encoder>
+
+        <append>false</append>
+        <prudent>false</prudent>
+    </appender>
+
+
+
+    <root level="debug">
+        <appender-ref ref="STDOUT" />
+        <appender-ref ref="FILE" />
+    </root>
+
+</configuration>

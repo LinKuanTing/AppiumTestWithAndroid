@@ -1,0 +1,14 @@
+###SN
+62167687
+###Register Name
+TesterTing
+###Nick Name
+GSH´ú¸Õ­û001
+###Mail
+ting.lin@goldensmarthome.com.tw
+###Phone
+0987654321
+###Register Password
+123456
+###Register Confirm Password
+123456

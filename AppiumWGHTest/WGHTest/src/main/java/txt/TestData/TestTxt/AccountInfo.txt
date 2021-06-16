@@ -1,0 +1,40 @@
+###Account
+test777
+###Nick Name
+Tester01
+###Gender
+1
+###Age
+20
+###Height
+171.0
+###InitialWeight
+68.0
+###TargetWeight
+65.0
+###Daily ExerciseNo (light->1, normal->2, heavy->3)
+3
+###Calories Reduce
+0
+##Breakfast mealtime
+06:00~07:59
+###Lunch mealtime
+11:00~12:59
+###Dinner mealtime
+16:30~18:59
+###Fasting mealtime
+20:00~00:00
+###BP measurements
+12
+###BG measurements
+12
+###CurrentWeight
+60.0
+###BP achieved (%)
+75.0
+###BG achieved (%)
+75.0
+###Weekly exercise time
+3000
+###BMI
+20.5
